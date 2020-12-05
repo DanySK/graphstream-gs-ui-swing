@@ -4,6 +4,6 @@ dependencies {
 }
 
 publishOnCentral {
-    projectDescription.set("Swing interface for GraphStream")
-    projectLongName.set("gs-ui-swing")
+    projectDescription = "Swing interface for GraphStream"
+    projectLongName = "gs-ui-swing"
 }
